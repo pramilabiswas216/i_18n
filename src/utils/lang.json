@@ -1,0 +1,23 @@
+{
+    "en": {
+        "welcomeMessage":"Welcome!",
+        "descriptionMessage":"We hope you enjoy this session.",
+        "greetingMessage":"Have a nice day!",
+        "userStateMessage":"<studentCount> Students are learning in this session"
+    },
+    "mr": {
+        "welcomeMessage":"स्वागत आहे!",
+        "descriptionMessage":"आम्ही आशा करतो की आपण या सत्राचा आनंद घ्याल.",
+        "greetingMessage":"तुमचा दिवस चांगला जावो!",
+        "userStateMessage":"या सत्रात <studentCount> विद्यार्थी शिकत आहेत."
+        
+    },
+    "hi":{
+        "welcomeMessage":"स्वागत है!",
+        "normalMessage":"हमें आशा है कि आप इस सत्र का आनंद लेंगे।",
+        "descriptionMessage":"आपका दिन शुभ हो!",
+        "userStateMessage":".इस सत्र में <studentCount> छात्र सीख रहे हैं । "
+        }
+    
+
+}
