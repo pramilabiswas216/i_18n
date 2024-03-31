@@ -1,8 +1,8 @@
 import languageConfig from "./lang.json";
 
-const I18n = (kewword)=>{
-    const lang = localStorage.getItem("lang" || "en");
-    return languageConfig[lang][kewword];
+const I18n = (keyword)=>{
+    const lang = localStorage.getItem("lang") || "en";
+    return languageConfig[lang][keyword];
     }
 
 
